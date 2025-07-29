@@ -8,6 +8,8 @@ This project analyzes a dataset of movies and filters out those with a rating of
 - `high_rated_movies.csv` – Filtered dataset with movies rated 8 or above.
 - `main.py` or `.ipynb` – Python code for data processing and visualization.
 - `README.md` – Project description and usage guide.
+- `ratings_plot.png` – Line chart of movie ratings.
+- `genres_plot.png` – Bar chart of genre distribution.
 
 ## 🛠️ What This Project Does
 
@@ -20,8 +22,11 @@ This project analyzes a dataset of movies and filters out those with a rating of
 
 ## 📊 Visualization Samples
 
-- ✅ **Line Plot:** Movie Titles vs Ratings  
-- ✅ **Bar Chart:** Number of Movies per Genre
+### 🎯 Movie Ratings
+![Ratings](ratings_plot1.png)
+
+### 🎬 Genre Distribution
+![Genres](genres_plot2.png)
 
 ## 📚 Libraries Used
 
@@ -39,7 +44,6 @@ pip install pandas matplotlib numpy
 
 3. Run the script:
 python main.py
-
 
 ## 📌 Notes
 
