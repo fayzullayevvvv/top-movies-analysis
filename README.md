@@ -23,10 +23,10 @@ This project analyzes a dataset of movies and filters out those with a rating of
 ## 📊 Visualization Samples
 
 ### 🎯 Movie Ratings
-![Ratings](ratings_plot1.png)
+![Ratings](ratings_plot.png)
 
 ### 🎬 Genre Distribution
-![Genres](genres_plot2.png)
+![Genres](genres_plot.png)
 
 ## 📚 Libraries Used
 
